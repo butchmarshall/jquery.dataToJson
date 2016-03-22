@@ -1,7 +1,7 @@
 {
   "name": "jquery.dataToJson",
   "main": "dist/jquery.dataToJson.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/butchmarshall/jquery.dataToJson",
   "authors": [
     "Butch Marshall <butch.a.marshall@gmail.com>"
